@@ -1,16 +1,29 @@
 Project: College Event FeedBack Analysis Using Python
+
+
 📘 Overview
+
+
 This project analyzes student feedback collected from an academic event using Python. The goal is to quantitatively measure how students rated different aspects of the event, such as the clarity of explanations, presentation quality, and support provided by the instructors.
 
 Through visualizations and data analysis, this project provides meaningful insights into student satisfaction and areas for improvement.
 
+
 🧩 Dataset
+
+
 The dataset used is "student_feedback.csv", which contains student responses on a 1–10 rating scale for various feedback criteria.
 
 🧹DATA CLEANING
+
+
 Removed Unnecessary columns like Unnamed: 0 and Student ID
 Renamed columns for easier processing and visualization
+
+
 📊 Visualizations
+
+
 The following are the visuals used in the report:
 
 Lineplot
@@ -27,6 +40,7 @@ matplotlib – Static visualizations
 seaborn – Advanced statistical plotting
 
 🧑‍💻 Author
+
 Gunda Varshini Data Analyst Intern @ Future Interns 📬 LinkedIn Profile :https://www.linkedin.com/in/gunda-varshini-50964832a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 <img width="1835" height="823" alt="TASK5" src="https://github.com/user-attachments/assets/aebe6161-d4ce-4c65-b89a-d8520b374e5a" />
 <img width="1795" height="779" alt="TASK6" src="https://github.com/user-attachments/assets/cf4abafd-5068-459a-9725-1924abafff57" />
