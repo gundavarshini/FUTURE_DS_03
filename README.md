@@ -1,4 +1,5 @@
-Project: College Event FeedBack Analysis Using Python
+
+PROJECT: COLLEGE EVENT FEEDBACK ANALYSIS USING PYTHON
 
 
 📘 Overview
